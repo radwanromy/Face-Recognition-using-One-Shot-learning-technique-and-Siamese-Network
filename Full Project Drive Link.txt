@@ -1,0 +1,5 @@
+Face Recognition using One-Shot learning technique and Siamese Network
+
+
+Full project Zip File: 
+https://1drv.ms/u/s!AgOHjyqhSU_YlykcvKUFLvV7T-cN?e=h2o1yA
